@@ -151,7 +151,7 @@ app.get('/', async (req, res) => {
   
     const randomIndex = Math.floor(Math.random() * frases.length);
     const randomPhrase = frases[randomIndex];
-    res.send(randomPhrase);
+    res.send("Harry Potter lançou sobre você o feitiço: " + randomPhrase);
   });
 
 
