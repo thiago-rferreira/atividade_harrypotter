@@ -1,22 +1,22 @@
-# Mundo de Harry Potter - Backend
+# Mundo de Harry Potter 🧙🏼🪄
 
 Bem-vindo ao Mundo de Harry Potter - Backend! Este projeto é parte de um desafio de desenvolvimento backend inspirado no mundo mágico criado por J.K. Rowling. Aqui, você encontrará um backend simples desenvolvido em Node.js com Express e PostgreSQL, permitindo operações CRUD completas para bruxos e varinhas.
 
 ![alt text](images/image-1.png)
 
-## Funcionalidades
+## Funcionalidades🪄
 
 - Criação, leitura, atualização e exclusão (CRUD) de bruxos.
 - Criação, leitura, atualização e exclusão (CRUD) de varinhas.
 - Rota de teste que retorna uma frase aleatória do filme Harry Potter ou um feitiço.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas🪄
 
 - Node.js
 - Express
 - PostgreSQL
 
-## Como Usar
+## Como Usar🪄
 
 1. Clone este repositório:
 
@@ -49,7 +49,7 @@ npm start
 
 6. Acesse a API em `http://localhost:3000`.
 
-## Rotas
+## Rotas 🪄
 
 - `GET /bruxos`: Retorna todos os bruxos.
 - `POST /bruxos`: Cria um novo bruxo.
@@ -65,6 +65,3 @@ npm start
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar este projeto.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
