@@ -47,7 +47,7 @@ npm install
 npm start
 ```
 
-6. Acesse a API em `http://localhost:3000`.
+6. Acesse a API em `http://localhost:3003`.
 
 ## Rotas 🪄
 
@@ -64,4 +64,8 @@ npm start
 ## Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar este projeto.
+
+### Aviso Importante
+
+Os dados de acesso ao banco de dados estão expostos neste projeto, pois é destinado a fins educacionais como projeto de estudo para alunos. Certifique-se de não utilizar informações sensíveis neste contexto.
 
